@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\final task\task_solution\bin\Debug\net6.0\task_solution.exe
+C:\Users\hp\Desktop\final task\task_solution\bin\Debug\net6.0\task_solution.deps.json
+C:\Users\hp\Desktop\final task\task_solution\bin\Debug\net6.0\task_solution.runtimeconfig.json
+C:\Users\hp\Desktop\final task\task_solution\bin\Debug\net6.0\task_solution.dll
+C:\Users\hp\Desktop\final task\task_solution\bin\Debug\net6.0\task_solution.pdb
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.AssemblyInfo.cs
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.dll
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\refint\task_solution.dll
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.pdb
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\task_solution.genruntimeconfig.cache
+C:\Users\hp\Desktop\final task\task_solution\obj\Debug\net6.0\ref\task_solution.dll
